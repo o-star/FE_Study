@@ -30,3 +30,11 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 <br/>
 
 <br/>
+
+## 🔍 React
+
+- [redux ducks 패턴과 redux-action, handleActions 활용 예시](https://velopert.com/3358)
+
+<br/>
+
+<br/>
