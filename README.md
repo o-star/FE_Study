@@ -27,6 +27,8 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 
 - [JS 안티패턴](https://ui.toast.com/fe-guide/ko_ANTI-PATTERN)
 - [Javascript Generator 포스트](https://armadillo-dev.github.io/javascript/what-is-generator/)
+- [Javascript EventListener](https://www.zerocho.com/category/JavaScript/post/57432d2aa48729787807c3fc)
+- [poiemaWeb (Web 관련 언어 튜토리얼 페이지)](https://poiemaweb.com/)
 
 <br/>
 
