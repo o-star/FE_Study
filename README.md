@@ -49,6 +49,8 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 #### **[Webpack & Babel]**
 
 - [Webpack 기초](https://velog.io/@hih0327/Webpack-%EA%B8%B0%EC%B4%88)
+- [Babel 기본 사용법](https://javacpro.tistory.com/77)
+- [Babel 기본 사용법 2](https://www.daleseo.com/js-babel/)
 
 <br/>
 
