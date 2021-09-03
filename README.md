@@ -26,9 +26,11 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 ## 🔍 Javascript
 
 - [JS 안티패턴](https://ui.toast.com/fe-guide/ko_ANTI-PATTERN)
+- [Browser Object Model](https://gangzzang.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8JavaScript-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EA%B0%9D%EC%B2%B4-%EB%AA%A8%EB%8D%B8Browser-Object-Model)
 - [Javascript Generator 포스트](https://armadillo-dev.github.io/javascript/what-is-generator/)
 - [Javascript EventListener](https://www.zerocho.com/category/JavaScript/post/57432d2aa48729787807c3fc)
 - [Promise, aysnc&await 차이점](https://velog.io/@pilyeooong/Promise%EC%99%80-asyncawait-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+- [함수 표현식 VS 함수 선언식](https://joshua1988.github.io/web-development/javascript/function-expressions-vs-declarations/)
 - [poiemaWeb (Web 관련 언어 튜토리얼 페이지)](https://poiemaweb.com/)
 
 <br/>
