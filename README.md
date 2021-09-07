@@ -41,6 +41,10 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 
 ## 🔍 React
 
+- [react-router에 관한 정말 좋은 정리 포스트](https://velopert.com/3417)
+
+<br/>
+
 #### **[ Redux ]**
 
 - [redux ducks 패턴과 redux-action, handleActions 활용 예시](https://velopert.com/3358)
