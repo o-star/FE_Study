@@ -18,6 +18,7 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 ## 🔍 CSS
 
 - [SCSS 문법 정리](https://soooprmx.com/scsssass-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC/)
+- [CSS in JS](https://d0gf00t.tistory.com/22)
 
 <br/>
 
@@ -50,11 +51,17 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 
 <br/>
 
-#### **[Webpack & Babel]**
+#### **[ Webpack & Babel ]**
 
 - [Webpack 기초](https://velog.io/@hih0327/Webpack-%EA%B8%B0%EC%B4%88)
 - [Babel 기본 사용법](https://javacpro.tistory.com/77)
 - [Babel 기본 사용법 2](https://www.daleseo.com/js-babel/)
+
+<br/>
+
+#### **[ Next.JS ]**
+
+- [Next.JS 튜토리얼 번역본 포스트](https://brunch.co.kr/@hee072794/81)
 
 <br/>
 
