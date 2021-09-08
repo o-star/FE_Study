@@ -66,7 +66,7 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 
 #### **[ Next.JS ]**
 
-- [Next.JS 튜토리얼 번역본 포스트](https://brunch.co.kr/@hee072794/81)
+- [Next.JS 튜토리얼 번역본 포스트](https://jcon.tistory.com/128?category=798379)
 
 <br/>
 
