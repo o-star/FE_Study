@@ -66,7 +66,8 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 
 #### **[ Next.JS ]**
 
-- [Next.JS 튜토리얼 번역본 포스트](https://jcon.tistory.com/128?category=798379)
+- [Next.js 튜토리얼 번역본 포스트](https://jcon.tistory.com/128?category=798379)
+- [Next.js 구동방식에 대한 포스트](https://velog.io/@cyranocoding/Next-js-%EA%B5%AC%EB%8F%99%EB%B0%A9%EC%8B%9D-%EA%B3%BC-getInitialProps)
 
 <br/>
 
