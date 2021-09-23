@@ -26,6 +26,7 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 
 ## 🔍 Javascript
 
+- [AJAX에 관하여](https://kimcoder.tistory.com/113)
 - [JS 안티패턴](https://ui.toast.com/fe-guide/ko_ANTI-PATTERN)
 - [일반 함수 선언식과 애로우 함수의 차이점](https://ponyozzang.tistory.com/452)
 - [Browser Object Model](https://gangzzang.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8JavaScript-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EA%B0%9D%EC%B2%B4-%EB%AA%A8%EB%8D%B8Browser-Object-Model)
