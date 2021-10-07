@@ -26,6 +26,7 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 
 ## 🔍 Javascript
 
+- [DOM, BOM, Window](https://cbw1030.tistory.com/46)
 - [AJAX에 관하여](https://kimcoder.tistory.com/113)
 - [AJAX에 관하여2](https://velog.io/@gparkkii/whatisajax)
 - [ajax, axios, fetch](https://velog.io/@kysung95/%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D-Ajax%EC%99%80-Axios-%EA%B7%B8%EB%A6%AC%EA%B3%A0-fetch)
