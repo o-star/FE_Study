@@ -39,6 +39,7 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 - [Promise, aysnc&await 차이점](https://velog.io/@pilyeooong/Promise%EC%99%80-asyncawait-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 - [함수 표현식 VS 함수 선언식](https://joshua1988.github.io/web-development/javascript/function-expressions-vs-declarations/)
 - [poiemaWeb (Web 관련 언어 튜토리얼 페이지)](https://poiemaweb.com/)
+- [Javascript Engine](https://velog.io/@ru_bryunak/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B8%B0%EC%B4%88-1)
 
 <br/>
 
@@ -48,6 +49,8 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 
 - [react-router에 관한 정말 좋은 정리 포스트](https://velopert.com/3417)
 - [react router < history, location, match > 속성 정리 포스트](https://gongbu-ing.tistory.com/45)
+- [React 스타일 가이드](https://code-daniel.tistory.com/29)
+- [HOC, 고차 컴포넌트](https://ko.reactjs.org/docs/higher-order-components.html)
 
 <br/>
 
