@@ -73,6 +73,7 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 - [Babel 기본 사용법](https://javacpro.tistory.com/77)
 - [Babel 기본 사용법 2](https://www.daleseo.com/js-babel/)
 - [CRA 없이 React 개발 환경 구축하기](https://hapbbying.tistory.com/130)
+- [CRA 없이 React 개발 환경 구축하기 2 <- 유용스!](https://365kim.tistory.com/147)
 
 <br/>
 
