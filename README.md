@@ -61,6 +61,7 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 - [redux-saga effect 정리](https://velog.io/@bigbrothershin/Redux-Saga%EC%9D%98-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [Redux Toolkit Reference](https://soyoung210.github.io/redux-toolkit/)
 - [Redux Toolkit 예제 포스트](https://blog.woolta.com/categories/1/posts/204)
+- [React, Redux 적용 가이드 - NAVER d2](https://d2.naver.com/helloworld/1848131)
 
 <br/>
 
