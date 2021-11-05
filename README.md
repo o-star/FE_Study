@@ -48,7 +48,10 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 ## 🔍 React
 
 - [react-router에 관한 정말 좋은 정리 포스트](https://velopert.com/3417)
+- [react-router parameter, query 지정 방법](https://velog.io/@bigbrothershin/%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%EC%99%80-%EC%BF%BC%EB%A6%AC)
+- [react-router parameter, query 지정 방법 2 <= 더 쉬운 방법임](https://velog.io/@wiostz98kr/TIL51-l-React-Router-3%ED%83%84)
 - [react router < history, location, match > 속성 정리 포스트](https://gongbu-ing.tistory.com/45)
+- [react 중첩 라우팅](https://www.daleseo.com/react-router-nested/)
 - [React 스타일 가이드](https://code-daniel.tistory.com/29)
 - [HOC, 고차 컴포넌트](https://ko.reactjs.org/docs/higher-order-components.html)
 
