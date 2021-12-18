@@ -74,6 +74,7 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 - [Redux Toolkit Reference](https://soyoung210.github.io/redux-toolkit/)
 - [Redux Toolkit 예제 포스트](https://blog.woolta.com/categories/1/posts/204)
 - [React, Redux 적용 가이드 - NAVER d2](https://d2.naver.com/helloworld/1848131)
+- [필독! react router 버전 업그레이드 숙지사항](https://velog.io/@soryeongk/ReactRouterDomV6)
 
 <br/>
 
