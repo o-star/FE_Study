@@ -45,6 +45,15 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 
 <br/>
 
+## 🔍 Typescript
+
+- [React.FC를 추천하지 않는 이유](https://darrengwon.tistory.com/768)
+- [React Typescript 기본 사용법](https://darrengwon.tistory.com/165?category=900115)
+
+<br/>
+
+<br/>
+
 ## 🔍 React
 
 - [react-router에 관한 정말 좋은 정리 포스트](https://velopert.com/3417)
