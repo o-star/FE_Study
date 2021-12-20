@@ -64,6 +64,7 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 - [React 스타일 가이드](https://code-daniel.tistory.com/29)
 - [HOC, 고차 컴포넌트](https://ko.reactjs.org/docs/higher-order-components.html)
 - [필독! react router 버전 업그레이드 숙지사항](https://velog.io/@soryeongk/ReactRouterDomV6)
+- [React 디렉토리 구조 예시](https://devalice.tistory.com/100)
 
 <br/>
 
