@@ -50,6 +50,7 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 - [React.FC를 추천하지 않는 이유](https://darrengwon.tistory.com/768)
 - [React Typescript 기본 사용법](https://darrengwon.tistory.com/165?category=900115)
 - [Typescript에서 Redux 사용하기](https://velog.io/@velopert/use-typescript-and-redux-like-a-pro)
+- [Interface, Type 둘 중 써야하는 경우](https://luckyyowu.tistory.com/401)
 
 <br/>
 
