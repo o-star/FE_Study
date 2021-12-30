@@ -48,6 +48,7 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 * [HOC, 고차 컴포넌트](https://ko.reactjs.org/docs/higher-order-components.html)
 * [필독! react router 버전 업그레이드 숙지사항](https://velog.io/@soryeongk/ReactRouterDomV6)
 * [React 디렉토리 구조 예시](https://devalice.tistory.com/100)
+* [React Query 사용에 관하여.. (사용이유 등)](https://techblog.woowahan.com/6339/)
 
 #### *[ Redux ]*
 
@@ -73,4 +74,3 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 
 * [Next.js 튜토리얼 번역본 포스트](https://jcon.tistory.com/128?category=798379)
 * [Next.js 구동방식에 대한 포스트](https://velog.io/@cyranocoding/Next-js-%EA%B5%AC%EB%8F%99%EB%B0%A9%EC%8B%9D-%EA%B3%BC-getInitialProps)
-
