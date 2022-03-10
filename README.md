@@ -3,14 +3,20 @@ Front-end 공부 참조URL 정리 공간
 
 Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋은 사이트들을 정리한 공간
 
+<br/>
+
 ## 🔍 HTML
 
 * [HTML, CSS Style Guide](https://ui.toast.com/fe-guide/ko_HTMLCSS#html-%EB%AC%B8%EC%84%9C-%ED%98%95%EC%8B%9D%EC%9D%84-%EB%AA%85%ED%99%95%ED%95%98%EA%B2%8C-%EC%A7%80%EC%A0%95%ED%95%9C%EB%8B%A4)
+
+<br/>
 
 ## 🔍 CSS
 
 * [SCSS 문법 정리](https://soooprmx.com/scsssass-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC/)
 * [CSS in JS](https://d0gf00t.tistory.com/22)
+
+<br/>
 
 ## 🔍 Javascript
 
@@ -29,6 +35,8 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 * [poiemaWeb (Web 관련 언어 튜토리얼 페이지)](https://poiemaweb.com/)
 * [Javascript Engine](https://velog.io/@ru_bryunak/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B8%B0%EC%B4%88-1)
 
+<br/>
+
 ## 🔍 Typescript
 
 * [React.FC를 추천하지 않는 이유](https://darrengwon.tistory.com/768)
@@ -36,6 +44,8 @@ Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋�
 * [Typescript에서 Redux 프로처럼 사용하기](https://velog.io/@velopert/use-typescript-and-redux-like-a-pro)
 * [Interface, Type 둘 중 써야하는 경우](https://luckyyowu.tistory.com/401)
 * [우아한 테크 러닝 - React&Typescript](https://velog.io/@wooder2050/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EB%9F%AC%EB%8B%9D-ReactTypescript-1%ED%9A%8C%EC%B0%A8)
+
+<br/>
 
 ## 🔍 React
 
