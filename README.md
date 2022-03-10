@@ -1,4 +1,4 @@
-# *FE_Study*
+# **FE_Study**
 Front-end 공부 참조URL 정리 공간
 
 Front-end 관련 공부를 진행하면서 구글링을 통해 참조하기 좋은 사이트들을 정리한 공간
